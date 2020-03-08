@@ -1,1 +1,1 @@
-# HangGai
+需要apk的话直接进入app/release/ 中下载app_release即可
